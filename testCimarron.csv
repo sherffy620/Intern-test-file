@@ -1,0 +1,6 @@
+statementKeyAccount,businessActivityId,cimarronAccountId,cimarronEventType
+1,1,1,Invoice
+2,2,2,CreditMemo
+3,3,3,Invoice
+4,4,4,CreditMemo
+5,5,5,Invoice
